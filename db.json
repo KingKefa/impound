@@ -1,6 +1,8 @@
-{
-    "lizenzNumber": "abcdef",
-    "ip": "45.13.227.101",
-    "lizenzOwner": "Peter Pan"
-},
+[
+    {
+        "lizenzNumber": "abcdef",
+        "ip": "45.13.227.101",
+        "lizenzOwner": "Peter Pan"
+    }
+]
         

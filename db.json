@@ -1,14 +1,6 @@
 {
-    "lizenz": [
-        {
-            "lizenzNumber": "8mcewuf8u3r2r2m3cr2r",
-            "ip": "45.13.227.101",
-            "lizenzOwner": "Peter Pan"
-        },
-        {
-            "lizenzNumber": "1234",
-            "ip": "89.182.92.72",
-            "lizenzOwner": "Renter Gang"
-        }
-    ]
-}
+    "lizenzNumber": "abcdef",
+    "ip": "45.13.227.101",
+    "lizenzOwner": "Peter Pan"
+},
+        

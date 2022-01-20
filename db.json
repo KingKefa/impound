@@ -1,12 +1,22 @@
 [
     {
+        "lizenzNumber": "sgdffgdsdfgsdfsggdfdsggfd",
+        "ip": "241.274.214.23",
+        "lizenzOwner": "poter"
+    },
+    {
+        "lizenzNumber": "asdferaffafefeaf",
+        "ip": "89.142.274.23",
+        "lizenzOwner": "Toralf"
+    },
+    {
         "lizenzNumber": "abcdef",
         "ip": "45.13.227.101",
         "lizenzOwner": "Peter Pan"
     },
     {
         "lizenzNumber": "kek",
-        "ip": "45.13.227.101",
+        "ip": "34.212.532.12",
         "lizenzOwner": "test"
     }
 ]

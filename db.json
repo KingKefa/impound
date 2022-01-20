@@ -3,6 +3,11 @@
         "lizenzNumber": "abcdef",
         "ip": "45.13.227.101",
         "lizenzOwner": "Peter Pan"
+    },
+    {
+        "lizenzNumber": "kek",
+        "ip": "45.13.227.101",
+        "lizenzOwner": "test"
     }
 ]
         
